@@ -1,0 +1,30 @@
+{
+	"mobiles":[
+		{
+			"name":"vivo v20se",
+			"image":"img/vivo_v20se.jfif",
+			"originalPrice":20999,
+			"price":21000
+		},{
+			"name":"samsung m31s",
+			"image":"img/samsung.jfif",
+			"originalPrice":17999,
+			"price":18000
+		},{
+			"name":"one plus nod",
+			"image":"img/oneplus.jfif",
+			"originalPrice":32999,
+			"price":33000
+		},{
+			"name":"realme 5pro",
+			"image":"img/realme.jfif",
+			"originalPrice":16999,
+			"price":17000
+		},{
+			"name":"redmi note5 pro",
+			"image":"img/redmi.jfif",
+			"originalPrice":12999,
+			"price":13000
+		}
+	]
+}
